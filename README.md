@@ -1,2 +1,2 @@
 # AzureFunctions
-Let Azure do the scaling while you can focus on the business logic
+Let Azure do the scaling while you can focus on the code
